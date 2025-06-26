@@ -93,7 +93,7 @@ To build practical, job-ready Blue Team skills aligned with the CompTIA CySA+ ex
 
 I completed the full Blue Team learning path on LetsDefend for CompTIA CySA+ preparation, gaining practical SOC skills and investigating real-world threats.
 
-📄 [View Certificate (Google Drive)](https://drive.google.com/file/d/1fTznAhq-gJx6dubdC66MFlCNIjCjh7Uz/view?usp=drive_link)
+![LetsDefend](https://raw.githubusercontent.com/prakharsec/CySA-LetsDefend/main/letsdefend.png)
 
 ---
 
